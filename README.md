@@ -3,13 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="index.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/Lerynnx/Lerynnx@main/index.css">
 </head>
 <body>
   <header>
     <div class="container">
       <div id="branding">
-        <h1><span class="highlight">GitHub</span> Presentación</h1>
+        <h1><span class="highlight">Lerynnx</span> Presentation</h1>
       </div>
     </div>
   </header>
