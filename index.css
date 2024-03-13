@@ -1,0 +1,73 @@
+
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+  header {
+    background: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #ff6b6b 3px solid;
+  }
+  header a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+  }
+  header ul {
+    padding: 0;
+    list-style: none;
+  }
+  header ul li {
+    display: inline;
+    padding: 0 20px 0 20px;
+  }
+  header #branding {
+    float: left;
+  }
+  header #branding h1 {
+    margin: 0;
+  }
+  header nav {
+    float: right;
+    margin-top: 10px;
+  }
+  header .highlight, header .current a {
+    color: #ff6b6b;
+    font-weight: bold;
+  }
+  header a:hover {
+    color: #ffffff;
+    font-weight: bold;
+  }
+#skills {
+  background-color: #fff;
+  padding: 20px 0;
+}
+#skills h2, #skills h3 {
+  text-align: center;
+  color: #333;
+}
+#skills .skillset {
+  margin-bottom: 20px;
+}
+#skills ul {
+  list-style: none;
+  padding: 0;
+}
+#skills ul li {
+  background-color: #f4f4f4;
+  margin: 5px 0;
+  padding: 10px;
+  border-left: 5px solid #ff6b6b;
+}
+
