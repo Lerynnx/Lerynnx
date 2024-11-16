@@ -138,7 +138,7 @@
 </p>
 <h2>More about me: </h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark" alt="lerynnx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="lerynnx" /></a> </p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerynnx&theme=onedark&show_icons=true&locale=en&layout=compact" alt="lerynnx" /></p>
 <br/><br/><br/><br/><br/>
