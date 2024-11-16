@@ -65,10 +65,10 @@
 
 <h2>More about me: </h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lerynnx" alt="lerynnx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark" alt="lerynnx" /></a> </p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerynnx&show_icons=true&locale=en&layout=compact" alt="lerynnx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerynnx&theme=onedark&show_icons=true&locale=en&layout=compact" alt="lerynnx" /></p>
 <br/><br/><br/><br/><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&show_icons=true&locale=en" alt="lerynnx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&theme=onedark&show_icons=true&locale=en" alt="lerynnx" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lerynnx&" alt="lerynnx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lerynnx&theme=onedark" alt="lerynnx" /></p>
