@@ -7,7 +7,7 @@
 
 - 💻 I’m creating a personal voice assistant (using Kotlin) and other small projects.
 
-- 🌱 I’m studing **Computer science's degree**
+- 🌱 I’m studing **Computer science's degree**.
 
 <h2 align="left">Languages, Tools and OSs wich I have used:</h2>
 
