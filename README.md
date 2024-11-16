@@ -105,6 +105,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" alt="WireShark" width="40" height="40"/>
+  </a>
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
   </a>
@@ -133,7 +136,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 </p>
-
 <h2>More about me: </h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark" alt="lerynnx" /></a> </p>
