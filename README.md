@@ -5,13 +5,11 @@
 
 <h2>What do I do?</h2>
 
-- 💻 I’m creating a personal voice assistant (using Kotlin) and other small projects.
-
 - 🌱 I’m studing **Computer science's degree** following the cybersecurity path.
   
-- ⚠️ Warning!! MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB, ASK ME FOR MORE INFORMATION ABOUT THEM.
+- ⚠️ Warning!! MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB, ASK ME TO GET MORE INFORMATION ABOUT THEM.
 
-<h2 align="left">Languages, Tools and OSs wich I have used:</h2>
+<h2 align="left">Languages, Tools and OSs wich I've used:</h2>
 
 <h3>Front-end:</h3>
 <p align="left">
@@ -86,7 +84,7 @@
     <img src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/netbeans.svg" alt="NetBeans" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" alt="AndroidStudio" width="40" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/44/1/android-studio-logo-png_seeklogo-443366.png" alt="AndroidStudio" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.svg" alt="Unity" width="40" height="40"/>
