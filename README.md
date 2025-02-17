@@ -84,7 +84,7 @@
     <img src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/netbeans.svg" alt="NetBeans" width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/44/1/android-studio-logo-png_seeklogo-443366.png" alt="AndroidStudio" width="40" height="40"/>
+    <img src="https://tse3.mm.bing.net/th?id=OIP.lb4vpSHqUlcmlhK6lKf4JgAAAA&pid=Api" alt="AndroidStudio" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.svg" alt="Unity" width="40" height="40"/>
@@ -132,9 +132,9 @@
   <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Odoo.svg" alt="Odoo" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+  </a>-->
 </p>
 <h2>More about me: </h2>
 
