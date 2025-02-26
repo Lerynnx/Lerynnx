@@ -9,7 +9,7 @@
   
 - ⚠️ Warning!! MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB, ASK ME TO GET MORE INFORMATION ABOUT THEM.
 
-<h2 align="left">Languages, Tools and OSs wich I've used:</h2>
+<h2 align="left">Languages, Tools and OSs wich I've used:(NOT UPDATED)</h2>
 
 <h3>Front-end:</h3>
 <p align="left">
