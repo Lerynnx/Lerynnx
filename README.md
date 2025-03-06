@@ -7,9 +7,9 @@
 
 - 🌱 I’m studing **Computer science's degree** following the cybersecurity path.
   
-- ⚠️ Warning!! MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB, ASK ME TO GET MORE INFORMATION ABOUT THEM.
+- ⚠️ Warning: MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB (or they are private), ASK ME TO GET MORE INFORMATION ABOUT THEM.
 
-<h2 align="left">Languages, Tools and OSs wich I've used:(NOT UPDATED)</h2>
+<h2 align="left">Languages, Tools and OSs wich I've used:(NOT UPDATED but It will be)</h2>
 
 <h3>Front-end:</h3>
 <p align="left">
