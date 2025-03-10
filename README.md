@@ -144,4 +144,4 @@
 <br/><br/><br/><br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&theme=onedark&show_icons=true&locale=en" alt="lerynnx" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lerynnx&theme=onedark" alt="lerynnx" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lerynnx&theme=onedark" alt="lerynnx" /></p>-->
