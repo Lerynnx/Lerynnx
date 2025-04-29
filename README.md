@@ -25,8 +25,8 @@
   <a href="https://www.thymeleaf.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/thymeleaf-icon.svg" alt="thymeleaf" width="40" height="40"/>
   </a>
-<a href="https://www.thymeleaf.org" target="_blank" rel="noreferrer">
-    <img src="[https://github.com/gilbarbara/logos/blob/main/logos/thymeleaf-icon.svg](https://steemitimages.com/p/3W72119s5BjWMGm4Xa2MvD5AT2bJsSA8F9WeC71v1s1fKfGkK9mMKuc3LcvF4KigbWg9UsrpEPGGLyYsV453Jv6hG5UMMhGxbpPWYHwLQX3ghdAB1A91ok?format=match&mode=fit&width=640)" alt="thymeleaf" width="40" height="40"/>
+  <a href="https://twig.symfony.com/" target="_blank" rel="noreferrer">
+    <img src="https://rholdos.gallerycdn.vsassets.io/extensions/rholdos/twig-language-support/1.0.1/1667305480040/Microsoft.VisualStudio.Services.Icons.Default" alt="Twig" width="40" height="40"/>
   </a>
 </p>
 
@@ -50,12 +50,19 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="40" height="40"/>
   </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  <a href="https://www.php.net/manual/es/class.com.php" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer">
+    <img src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png" alt="SQL" width="40" height="40"/>
   </a>
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony" width="40" height="40"/>
+  </a>
+  <a href="https://www.doctrine-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.doctrine-project.org/logos/doctrine-logo.svg" alt="Doctrine" width="40" height="40"/>
+  </a>
+  
 </p>
 
 <h3>SOs:</h3>
@@ -69,28 +76,17 @@
   <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/>
   </a>
-</p>
-
-
-<h3>IDEs:</h3>
-<p align="left">
-  <a href="https://eclipseide.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.nicepng.com/png/full/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png" alt="EclipseIDE" width="40" height="40"/>
+  <a href="https://www.ibm.com/docs/es/license-metric-tool/9.2.0?topic=connections-vmware-vsphere" target="_blank" rel="noreferrer">
+    <img src="https://vipromise.com/wp-content/uploads/2019/12/vmware-esxi.jpg" alt="ESXi" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="VisualStudioCode" width="40" height="40"/>
+  <a href="https://www.truenas.com/" target="_blank" rel="noreferrer">
+    <img src="https://combron.be/wp-content/uploads/2021/02/TrueNAS-Enterprise-logo-vierkant.png" alt="TrueNas" width="40" height="40"/>
   </a>
-  <a href="https://codelite.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/eranif/codelite/blob/master/art/codelite-logo-no-bg.png" alt="CodeLite" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" alt="WinServer" width="40" height="40"/>
   </a>
-  <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/netbeans.svg" alt="NetBeans" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://tse3.mm.bing.net/th?id=OIP.lb4vpSHqUlcmlhK6lKf4JgAAAA&pid=Api" alt="AndroidStudio" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.svg" alt="Unity" width="40" height="40"/>
+  <a href="https://www.centos.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" width="40" height="40"/>
   </a>
 </p>
 
@@ -125,9 +121,6 @@
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://downloadlynet.ir/wp-content/uploads/2023/10/Burp-Suite-Professional.png" alt="BurpSuite" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="40" height="40"/>
   </a>
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="ApacheTomcat" width="40" height="40"/>
