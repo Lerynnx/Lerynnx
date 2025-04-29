@@ -7,9 +7,9 @@
 
 - 🌱 I’m studing **Computer science's degree** following the cybersecurity path.
   
-- ⚠️ Warning: MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB (or they are private), ASK ME TO GET MORE INFORMATION ABOUT THEM.
+- ⚠️ MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB (or they are private), ASK ME TO GET MORE INFORMATION ABOUT THEM.
 
-<h2 align="left">Languages, Tools and OSs wich I've used:(NOT UPDATED but It will be)</h2>
+<h2 align="left">Languages, Tools and OSs wich I've used:</h2>
 
 <h3>Front-end:</h3>
 <p align="left">
@@ -17,13 +17,16 @@
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.thymeleaf.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/thymeleaf-icon.svg" alt="thymeleaf" width="40" height="40"/>
+  </a>
+<a href="https://www.thymeleaf.org" target="_blank" rel="noreferrer">
+    <img src="[https://github.com/gilbarbara/logos/blob/main/logos/thymeleaf-icon.svg](https://steemitimages.com/p/3W72119s5BjWMGm4Xa2MvD5AT2bJsSA8F9WeC71v1s1fKfGkK9mMKuc3LcvF4KigbWg9UsrpEPGGLyYsV453Jv6hG5UMMhGxbpPWYHwLQX3ghdAB1A91ok?format=match&mode=fit&width=640)" alt="thymeleaf" width="40" height="40"/>
   </a>
 </p>
 
