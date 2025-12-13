@@ -1,16 +1,19 @@
-<h1 align="center">Hello, I'm Laura</h1>
-<h3 align="center">I'm a junior software developer</h3>
+# Hello, I'm Laura 👋
+### Junior Software Developer · Computer Science Student focused on Cybersecurity and Full-Stack
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lerynnx&label=Profile%20views&color=0e75b6&style=flat" alt="lerynnx" /> </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lerynnx&label=Profile%20views&color=0e75b6&style=flat" alt="lerynnx" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-lerynnx-181717?logo=github&logoColor=white" />
+  <img alt="Open to work" src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen" />
+</p>
+<br/>
 <h2>What do I do?</h2>
 
 - 🌱 I’m studing **Computer science's degree** following the cybersecurity path.
-  
 - ⚠️ MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB (or they are private), ASK ME TO GET MORE INFORMATION ABOUT THEM.
 
+<br/>
 <h2 align="left">Languages, Tools and OSs wich I've used:</h2>
-
 <h3>Front-end:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -29,7 +32,6 @@
     <img src="https://rholdos.gallerycdn.vsassets.io/extensions/rholdos/twig-language-support/1.0.1/1667305480040/Microsoft.VisualStudio.Services.Icons.Default" alt="Twig" width="40" height="40"/>
   </a>
 </p>
-
 <h3>Back-end:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -64,7 +66,6 @@
   </a>
   
 </p>
-
 <h3>SOs:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-en/windows" target="_blank" rel="noreferrer">
@@ -77,7 +78,7 @@
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/>
   </a>
   <a href="https://www.ibm.com/docs/es/license-metric-tool/9.2.0?topic=connections-vmware-vsphere" target="_blank" rel="noreferrer">
-    <img src="https://vipromise.com/wp-content/uploads/2019/12/vmware-esxi.jpg" alt="ESXi" width="40" height="40"/>
+    <img src="https://us.informatiweb-pro.net/images/tutoriels/products/logos/vmware-esxi.png" alt="ESXi" width="40" height="40"/>
   </a>
   <a href="https://www.truenas.com/" target="_blank" rel="noreferrer">
     <img src="https://combron.be/wp-content/uploads/2021/02/TrueNAS-Enterprise-logo-vierkant.png" alt="TrueNas" width="40" height="40"/>
@@ -89,7 +90,6 @@
     <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" width="40" height="40"/>
   </a>
 </p>
-
 <h3>More:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -105,7 +105,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" alt="WireShark" width="40" height="40"/>
+    <img src="https://img.informer.com/icons/png/128/8766/8766546.png" alt="WireShark" width="40" height="40"/>
   </a>
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
@@ -117,7 +117,7 @@
     <img src="https://www.liblogo.com/img-logo/sp6888da88-spss-logo-download-hd-ibm-spss-statistics-logo-ibm-spss-statistics-25.png" alt="SPSSstatistic" width="40" height="40"/>
   </a>
   <a href="https://www.apachefriends.org/en/index.html" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/xampp-icon-512x506-o2hpws0t.png" alt="Xampp" width="40" height="40"/>
+    <img src="https://tse2.mm.bing.net/th/id/OIP.2p9jfAKF_Lql1CfrUBDqaAAAAA?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Xampp" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://downloadlynet.ir/wp-content/uploads/2023/10/Burp-Suite-Professional.png" alt="BurpSuite" width="40" height="40"/>
@@ -128,16 +128,17 @@
   <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Odoo.svg" alt="Odoo" width="40" height="40"/>
   </a>
-  <!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>-->
 </p>
+<br/>
 <h2>More about me: </h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="lerynnx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark" alt="lerynnx" /></a> </p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerynnx&theme=onedark&show_icons=true&locale=en&layout=compact" alt="lerynnx" /></p>
 <br/><br/><br/><br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&theme=onedark&show_icons=true&locale=en" alt="lerynnx" /></p>
 <br/>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lerynnx&theme=onedark" alt="lerynnx" /></p>-->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lerynnx&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&excludeDaysLabel=3796EB" alt="GitHub Streak" /></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lerynnx&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&excludeDaysLabel=3796EB)](https://git.io/streak-stats)
