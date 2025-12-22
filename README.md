@@ -1,3 +1,5 @@
+## not updated yet
+
 # Hello visitor, this is Laura! 👋
 ### Junior Software Developer · Computer Science Student focused on Cybersecurity and Full-Stack
 
