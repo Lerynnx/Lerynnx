@@ -1,5 +1,3 @@
-## Profile not updated yet
-
 # Hello visitor, this is Laura! 👋
 ### Junior Software Developer · Computer Science Student focused on Cybersecurity and Full-Stack
 
@@ -12,10 +10,10 @@
 <h2>What do I do?</h2>
 
 - 🌱 I’m studing **Computer science's degree** following the cybersecurity path.
-- ⚠️ MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB (or they are private), ASK ME TO GET MORE INFORMATION ABOUT THEM.
+- ⚠️ MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB (or they are private), ask me to get more information about them.
 
 <br/>
-<h2 align="left">Languages, Tools and OSs wich I've used:</h2>
+<h2 align="left">What do I know?</h2>
 <h3>Front-end:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -32,6 +30,18 @@
   </a>
   <a href="https://twig.symfony.com/" target="_blank" rel="noreferrer">
     <img src="https://rholdos.gallerycdn.vsassets.io/extensions/rholdos/twig-language-support/1.0.1/1667305480040/Microsoft.VisualStudio.Services.Icons.Default" alt="Twig" width="40" height="40"/>
+  </a>
+  <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWindCSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
 <h3>Back-end:</h3>
@@ -66,7 +76,6 @@
   <a href="https://www.doctrine-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.doctrine-project.org/logos/doctrine-logo.svg" alt="Doctrine" width="40" height="40"/>
   </a>
-  
 </p>
 <h3>SOs:</h3>
 <p align="left">
@@ -122,13 +131,46 @@
     <img src="https://tse2.mm.bing.net/th/id/OIP.2p9jfAKF_Lql1CfrUBDqaAAAAA?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Xampp" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://downloadlynet.ir/wp-content/uploads/2023/10/Burp-Suite-Professional.png" alt="BurpSuite" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" alt="BurpSuite" width="40" height="40"/>
   </a>
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="ApacheTomcat" width="40" height="40"/>
   </a>
   <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Odoo.svg" alt="Odoo" width="40" height="40"/>
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/es/elasticsearch" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Search" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/es/logstash" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/es/kibana" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/es/beats/filebeat" target="_blank" rel="noreferrer">
+    <img src="https://www.nicepng.com/png/full/87-874998_filebeat-logo.png" alt="Filebeat" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/docs/k6/latest/" target="_blank" rel="noreferrer">
+    <img src="https://grafana.com/media/docs/k6/GrafanaLogo_k6_orange_icon.svg" alt="GrafanaK6" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/docs/loki/latest/" target="_blank" rel="noreferrer">
+    <img src="https://elpuig.xeill.net/Members/vcarceler/articulos/introduccion-a-la-monitorizacion-con-grafana-y-loki/logo-1.png/@@images/13dd22a2-267b-4821-99ed-3e153d86ce7c.png" alt="Loki" width="40" height="40"/>
+  </a>
+  <a href="https://ngrok.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/63ed4bc7a4b189da942a6b8c/6411ffa15228f430a39c69a6_Frame%203.svg" alt="Ngrok" width="80" height="40"/>
   </a>
 </p>
 <br/>
