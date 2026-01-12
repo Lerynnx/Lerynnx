@@ -17,13 +17,13 @@
 <h3>Front-end:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html5" width="90" height="50"/>
   </a>
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~bgwhite.svg" alt="CSS" width="90" height="50"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg" alt="bootstrap" width="90" height="50"/>
   </a>
   <a href="https://www.thymeleaf.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/thymeleaf-icon.svg" alt="thymeleaf" width="40" height="40"/>
@@ -32,46 +32,46 @@
     <img src="https://rholdos.gallerycdn.vsassets.io/extensions/rholdos/twig-language-support/1.0.1/1667305480040/Microsoft.VisualStudio.Services.Icons.Default" alt="Twig" width="40" height="40"/>
   </a>
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" alt="React" width="90" height="50"/>
   </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="90" height="50"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWindCSS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" alt="TailWindCSS" width="90" height="50"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg" alt="TypeScript" width="90" height="50"/>
   </a>
 </p>
 <h3>Back-end:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="java" width="90" height="50"/>
   </a>
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/1*E6XFftZQI4_3VIammdxD-g.jpeg" alt="C" width="90" height="50"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21~bgwhite.svg" alt="spring" width="90" height="50"/>
   </a>
   <a href="https://projectlombok.org" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:490/1*pDXWRTleqr39P7O43glCcQ.jpeg" alt="Lombok" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjuZIVtG-F51Z7M4cLikxKMq03_9izxJB1_Q&s" alt="Lombok" width="90" height="50"/>
   </a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21~bgwhite.svg" alt="Hibernate" width="90" height="50"/>
   </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21~bgwhite.svg" alt="Maven" width="90" height="50"/>
   </a>
   <a href="https://www.php.net/manual/es/class.com.php" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21~bgwhite.svg" alt="PHP" width="90" height="50"/>
   </a>
   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer">
-    <img src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png" alt="SQL" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg" alt="SQL" width="90" height="50"/>
   </a>
   <a href="https://symfony.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21~bgwhite.svg" alt="Symfony" width="90" height="50"/>
   </a>
   <a href="https://www.doctrine-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.doctrine-project.org/logos/doctrine-logo.svg" alt="Doctrine" width="40" height="40"/>
@@ -86,7 +86,7 @@
     <img src="https://www.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_.png" alt="KaliLinux" width="40" height="40"/>
   </a>
   <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21~bgwhite.svg" alt="Ubuntu" width="90" height="50"/>
   </a>
   <a href="https://www.ibm.com/docs/es/license-metric-tool/9.2.0?topic=connections-vmware-vsphere" target="_blank" rel="noreferrer">
     <img src="https://us.informatiweb-pro.net/images/tutoriels/products/logos/vmware-esxi.png" alt="ESXi" width="40" height="40"/>
@@ -98,28 +98,25 @@
     <img src="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" alt="WinServer" width="40" height="40"/>
   </a>
   <a href="https://www.centos.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/centos/centos-ar21~bgwhite.svg" alt="CentOS" width="90" height="50"/>
   </a>
 </p>
 <h3>More:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="git" width="90" height="50"/>
   </a>
   <a href="https://cybersecuritycloud.telefonicatech.com/en/innovation-labs/innovation-technologies/foca" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/ElevenPaths/FOCA/refs/heads/master/FOCA/Icons/Logo_interfaz.ico" alt="FOCA" width="50" height="45"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21~bgwhite.svg" alt="Postman" width="90" height="50"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://img.informer.com/icons/png/128/8766/8766546.png" alt="WireShark" width="40" height="40"/>
   </a>
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21~bgwhite.svg" alt="VirtualBox" width="90" height="50"/>
   </a>
   <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/vmware-player.svg" alt="VMWare" width="40" height="40"/>
@@ -134,7 +131,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" alt="BurpSuite" width="40" height="40"/>
   </a>
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="ApacheTomcat" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21~bgwhite.svg" alt="ApacheTomcat" width="90" height="50"/>
   </a>
   <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Odoo.svg" alt="Odoo" width="40" height="40"/>
