@@ -174,7 +174,7 @@
   </a>
 </p>
 <br/>
-<h2>More about me: </h2>
+<h2>Github statistics (yeah, the repos don’t always work): </h2>
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerynnx&theme=onedark&show_icons=true&locale=en&layout=compact" alt="lerynnx" /></p>
