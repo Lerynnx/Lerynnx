@@ -177,10 +177,10 @@
 <h2>Github statistics (yeah, the repos don’t always work): </h2>
 
 <br/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lerynnx&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&excludeDaysLabel=3796EB" alt="GitHub Streak" /></a>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerynnx&theme=onedark&show_icons=true&locale=en&layout=compact" alt="lerynnx" /></p>
 <br/><br/><br/><br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&theme=onedark&show_icons=true&locale=en" alt="lerynnx" /></p>
-<br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lerynnx&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&excludeDaysLabel=3796EB" alt="GitHub Streak" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
