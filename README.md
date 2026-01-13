@@ -240,13 +240,14 @@
 <br/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lerynnx&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&excludeDaysLabel=3796EB" alt="GitHub Streak" /></a>
 <br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lerynnx&theme=tokyonight)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerynnx&theme=onedark&show_icons=true&locale=en&layout=compact" alt="lerynnx" /></p>
-<br/><br/><br/><br/><br/>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&theme=onedark&show_icons=true&locale=en" alt="lerynnx" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lerynnx&theme=tokyonight)
 
 ![snake gif](https://github.com/Lerynnx/Lerynnx/blob/output/github-contribution-grid-snake.svg)
 
@@ -255,6 +256,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerynnx&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lerynnx&show_icons=true&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lerynnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
