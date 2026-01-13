@@ -1,4 +1,5 @@
-# Hello visitor, this is Laura! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hello%20visitor,%20this%20is%20Laura!&reversal=false&textBg=false&animation=fadeIn)
+
 ### Junior Software Developer · Computer Science Student focused on Cybersecurity and Full-Stack
 
 <p align="center">
@@ -244,3 +245,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&theme=onedark&show_icons=true&locale=en" alt="lerynnx" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lerynnx&theme=tokyonight)
+
+![snake gif](https://github.com/Lerynnx/Lerynnx/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lerynnx&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerynnx&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lerynnx&show_icons=true&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lerynnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
