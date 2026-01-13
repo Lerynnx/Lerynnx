@@ -17,31 +17,34 @@
 <h3>Front-end:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html5" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21~bgwhite.svg" alt="html5" width="120" height="60"/>
   </a>
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~bgwhite.svg" alt="CSS" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~bgwhite.svg" alt="CSS" width="120" height="60"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg" alt="bootstrap" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21~bgwhite.svg" alt="bootstrap" width="120" height="60"/>
   </a>
   <a href="https://www.thymeleaf.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/thymeleaf-icon.svg" alt="thymeleaf" width="40" height="40"/>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjRNmOXzM9OW69iXtuPO0fKQrEYxPGOyU5fxh0bg1j8ViZJW1e9TmgD_icpJ-qIvD-3Bxiva4FOLv2wi8z56yRdQSf4LZfHj8mtN1BPtZCD9RlluYPsMT23CcBlgNKGZiGpzvPmCU3LsA/s1600/thymeleaf.png" alt="thymeleaf" width="110" height="60"/>
   </a>
   <a href="https://twig.symfony.com/" target="_blank" rel="noreferrer">
-    <img src="https://rholdos.gallerycdn.vsassets.io/extensions/rholdos/twig-language-support/1.0.1/1667305480040/Microsoft.VisualStudio.Services.Icons.Default" alt="Twig" width="40" height="40"/>
+    <img src="https://topnotchdeveloper.co.uk/wp-content/uploads/2023/03/twig-logo.png" alt="Twig" width="117" height="60"/>
   </a>
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" alt="React" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" alt="React" width="120" height="60"/>
   </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="120" height="60"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" alt="TailWindCSS" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21~bgwhite.svg" alt="TailWindCSS" width="120" height="60"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg" alt="TypeScript" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg" alt="TypeScript" width="120" height="60"/>
+  </a>
+  <a href="https://www.w3schools.com/Js/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" alt="JavaScript" width="120" height="60"/>
   </a>
 </p>
 <h3>Back-end:</h3>
@@ -74,28 +77,28 @@
     <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21~bgwhite.svg" alt="Symfony" width="90" height="50"/>
   </a>
   <a href="https://www.doctrine-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.doctrine-project.org/logos/doctrine-logo.svg" alt="Doctrine" width="40" height="40"/>
+    <img src="https://dx-solutions.be/site/assets/files/2564/doctrine-image-1.1000x0.webp" alt="Doctrine" width="103" height="50"/>
   </a>
 </p>
 <h3>SOs:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-en/windows" target="_blank" rel="noreferrer">
-    <img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" alt="Windows" width="40" height="40"/>
+    <img src="https://microsofters.com/wp-content/uploads/2021/06/Logotipo-Windows-11.jpg" alt="Windows" width="128" />
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_.png" alt="KaliLinux" width="40" height="40"/>
+    <img src="https://www.linuxadictos.com/wp-content/uploads/kali-linux-1.jpg" alt="KaliLinux" width="90" />
   </a>
   <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21~bgwhite.svg" alt="Ubuntu" width="90" height="50"/>
   </a>
   <a href="https://www.ibm.com/docs/es/license-metric-tool/9.2.0?topic=connections-vmware-vsphere" target="_blank" rel="noreferrer">
-    <img src="https://us.informatiweb-pro.net/images/tutoriels/products/logos/vmware-esxi.png" alt="ESXi" width="40" height="40"/>
+    <img src="https://unaaldia.hispasec.com/wp-content/uploads/2019/12/Captura-de-pantalla-de-2019-12-21-01-13-01-1.jpg" alt="ESXi" width="80" height="44"/>
   </a>
   <a href="https://www.truenas.com/" target="_blank" rel="noreferrer">
-    <img src="https://combron.be/wp-content/uploads/2021/02/TrueNAS-Enterprise-logo-vierkant.png" alt="TrueNas" width="40" height="40"/>
+    <img src="https://www.truenas.com/wp-content/uploads/2021/12/truenas_core_logo_1200_628.png" alt="TrueNas" width="90" height="44"/>
   </a>
   <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" alt="WinServer" width="40" height="40"/>
+    <img src="https://allvectorlogo.com/img/2017/05/windows-server-logo.png" alt="WinServer" width="90" height="44"/>
   </a>
   <a href="https://www.centos.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/centos/centos-ar21~bgwhite.svg" alt="CentOS" width="90" height="50"/>
@@ -107,67 +110,67 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg" alt="git" width="90" height="50"/>
   </a>
   <a href="https://cybersecuritycloud.telefonicatech.com/en/innovation-labs/innovation-technologies/foca" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ElevenPaths/FOCA/refs/heads/master/FOCA/Icons/Logo_interfaz.ico" alt="FOCA" width="50" height="45"/>
+    <img src="https://media.telefonicatech.com/telefonicatech/uploads/2021/1/41815_Imagen0.png" alt="FOCA" width="120" height="50"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21~bgwhite.svg" alt="Postman" width="90" height="50"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.informer.com/icons/png/128/8766/8766546.png" alt="WireShark" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Plh3lufhlVZ2Mj2m2pIOkQJvL29m2eIByA&s" alt="WireShark" width="90" height="44"/>
   </a>
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21~bgwhite.svg" alt="VirtualBox" width="90" height="50"/>
   </a>
   <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/vmware-player.svg" alt="VMWare" width="40" height="40"/>
+    <img src="https://logos-marcas.com/wp-content/uploads/2022/03/VMware-Simbolo.jpg" alt="VMWare" width="80" height="50"/>
   </a>
   <a href="https://www.ibm.com/en-en/products/spss-statistics" target="_blank" rel="noreferrer">
-    <img src="https://www.liblogo.com/img-logo/sp6888da88-spss-logo-download-hd-ibm-spss-statistics-logo-ibm-spss-statistics-25.png" alt="SPSSstatistic" width="40" height="40"/>
+    <img src="https://i.pinimg.com/736x/e2/a8/4c/e2a84c41908c24b070ccb4b22420bc29.jpg" alt="SPSSstatistic" width="90" height="44"/>
   </a>
   <a href="https://www.apachefriends.org/en/index.html" target="_blank" rel="noreferrer">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.2p9jfAKF_Lql1CfrUBDqaAAAAA?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Xampp" width="40" height="40"/>
+    <img src="https://www.luisllamas.es/wp-content/uploads/2018/01/instalar-servidor-web-xampp.png" alt="Xampp" width="80" height="44"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" alt="BurpSuite" width="40" height="40"/>
+    <img src="https://albertoestrada.es/wp-content/uploads/2023/02/burp-suite-logo.png" alt="BurpSuite" width="80" height="44"/>
   </a>
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21~bgwhite.svg" alt="ApacheTomcat" width="90" height="50"/>
   </a>
   <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Odoo.svg" alt="Odoo" width="40" height="40"/>
+    <img src="https://independant.io/wp-content/uploads/Odoo_logo.png" alt="Odoo" width="90" height="44"/>
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
+    <img src="https://cdn.clever-cloud.com/uploads/2025/11/rabbitmq.png" alt="RabbitMQ" width="90" height="44"/>
   </a>
   <a href="https://www.elastic.co/es/elasticsearch" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Search" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21~bgwhite.svg" alt="Elastic Search" width="90" height="44"/>
   </a>
   <a href="https://www.elastic.co/es/logstash" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21~bgwhite.svg" alt="Logstash" width="90" height="44"/>
   </a>
   <a href="https://www.elastic.co/es/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21~bgwhite.svg" alt="Kibana" width="90" height="44"/>
   </a>
   <a href="https://www.elastic.co/es/beats/filebeat" target="_blank" rel="noreferrer">
-    <img src="https://www.nicepng.com/png/full/87-874998_filebeat-logo.png" alt="Filebeat" width="40" height="40"/>
+    <img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt2c6614d4a91bd941/5bbcabfbcca23e4e0cc6b2c9/beats_blog.png" alt="Filebeat" width="90" height="44"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21~bgwhite.svg" alt="Jenkins" width="90" height="44"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg" alt="Docker" width="90" height="44"/>
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21~bgwhite.svg" alt="Grafana" width="90" height="44"/>
   </a>
   <a href="https://grafana.com/docs/k6/latest/" target="_blank" rel="noreferrer">
-    <img src="https://grafana.com/media/docs/k6/GrafanaLogo_k6_orange_icon.svg" alt="GrafanaK6" width="40" height="40"/>
+    <img src="https://habrastorage.org/getpro/habr/upload_files/599/582/9e1/5995829e10c8f88f41a39466208f1b9e.jpg" alt="GrafanaK6" width="90" height="44"/>
   </a>
   <a href="https://grafana.com/docs/loki/latest/" target="_blank" rel="noreferrer">
-    <img src="https://elpuig.xeill.net/Members/vcarceler/articulos/introduccion-a-la-monitorizacion-con-grafana-y-loki/logo-1.png/@@images/13dd22a2-267b-4821-99ed-3e153d86ce7c.png" alt="Loki" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8s7nu2xyCrCSOVzSTXGeWNGhOJFmPnpfYA&s" alt="Loki" width="90" height="44"/>
   </a>
   <a href="https://ngrok.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.prod.website-files.com/63ed4bc7a4b189da942a6b8c/6411ffa15228f430a39c69a6_Frame%203.svg" alt="Ngrok" width="80" height="40"/>
+    <img src="https://cdn.prod.website-files.com/63ed4bc7a4b189da942a6b8c/6411ffa14c60dbe1848fafff_Frame%202.svg" alt="Ngrok" width="105" height="44"/>
   </a>
 </p>
 <br/>
