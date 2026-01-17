@@ -8,6 +8,8 @@
   <img alt="Open to work" src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen" />
 </p>
 <br/>
+<img alt="Open to work" src="https://www.codewars.com/users/Lerynnx/badges/small" />
+<br/>
 <h2>What do I do?</h2>
 
 - 🌱 I’m studing **Computer science's degree** following the cybersecurity path.
