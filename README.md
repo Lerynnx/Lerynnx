@@ -253,8 +253,6 @@
 
 ![snake gif](https://github.com/Lerynnx/Lerynnx/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lerynnx&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lerynnx&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lerynnx&show_icons=true&theme=tokyonight)
