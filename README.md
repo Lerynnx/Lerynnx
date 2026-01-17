@@ -6,9 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=lerynnx&label=Profile%20views&color=0e75b6&style=flat" alt="lerynnx" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-lerynnx-181717?logo=github&logoColor=white" />
   <img alt="Open to work" src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen" />
+<img alt="CodeWars" src="https://www.codewars.com/users/Lerynnx/badges/micro" />
 </p>
-<br/>
-<img alt="Open to work" src="https://www.codewars.com/users/Lerynnx/badges/small" />
 <br/>
 <h2>What do I do?</h2>
 
