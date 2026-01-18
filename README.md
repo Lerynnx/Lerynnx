@@ -244,10 +244,10 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&theme=onedark&show_icons=true&locale=en" alt="lerynnx" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lerynnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lerynnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lerynnx&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&excludeDaysLabel=3796EB" alt="GitHub Streak" /></a>
+<br/>
 
 ![snake gif](https://github.com/Lerynnx/Lerynnx/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lerynnx&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&excludeDaysLabel=3796EB" alt="GitHub Streak" /></a>
-<br/>
