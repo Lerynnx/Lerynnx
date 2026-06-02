@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hello%20visitor,%20this%20is%20Laura!&reversal=false&textBg=false&animation=fadeIn)
 
-### Software Developer · Computer Science Student focused on Full-Stack and Solution Architecture
+### Software Developer · Computer Science student focused on Full‑Stack Development and Solution Architecture
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lerynnx&label=Profile%20views&color=0e75b6&style=flat" alt="lerynnx" />
