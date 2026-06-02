@@ -41,6 +41,9 @@
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" alt="Vite" width="120" height="60"/>
   </a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer">
+    <img src="https://www.webtutoriales.com/_astro/astro-js.B1AzQgTM_kGNv3.webp" alt="Astro" width="120" height="60"/>
+  </a>
 </p>
 
 <h4>CSS Frameworks:</h4>
