@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lerynnx&label=Profile%20views&color=0e75b6&style=flat" alt="lerynnx" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-lerynnx-181717?logo=github&logoColor=white" />
   <img alt="Open to work" src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen" />
 <img alt="CodeWars" src="https://www.codewars.com/users/Lerynnx/badges/micro" />
 </p>
@@ -12,7 +11,6 @@
 <h2>What do I do?</h2>
 
 - 🌱 I’m studing **Computer science's degree** following the cybersecurity path.
-- ⚠️ MY BEST PROJECTS ARE NOT UPLOADED ON GITHUB (or they are private), ask me to get more information about them.
 
 <br/>
 <h2 align="left">What do I know?</h2>
@@ -190,7 +188,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21~bgwhite.svg" alt="ApacheTomcat" width="120" height="60"/>
   </a>
   <a href="https://www.odoo.com" target="_blank" rel="noreferrer">
-    <img src="https://independant.io/wp-content/uploads/Odoo_logo.png" alt="Odoo" width="120" height="60"/>
+    <img src="https://logodix.com/logo/1231088.jpg" alt="Odoo" width="120" height="60" border-radius="10"/>
   </a>
 </p>
 
@@ -224,6 +222,9 @@
   <a href="https://grafana.com/docs/loki/latest/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8s7nu2xyCrCSOVzSTXGeWNGhOJFmPnpfYA&s" alt="Loki" width="120" height="60"/>
   </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21~bgwhite.svg" alt="Prometheus" width="120" height="60"/>
+  </a>
 </p>
 
 <h4>Message Brokers and Tunneling Tools:</h4>
@@ -240,14 +241,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lerynnx&theme=onedark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerynnx&theme=onedark&show_icons=true&locale=en&layout=compact" alt="lerynnx" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&theme=onedark&show_icons=true&locale=en" alt="lerynnx" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lerynnx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lerynnx&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&fire=EB5454&excludeDaysLabel=3796EB" alt="GitHub Streak" /></a>
 <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lerynnx&theme=onedark&show_icons=true&locale=en&layout=compact" alt="lerynnx" /></p>
+<br/>
 
-![snake gif](https://github.com/Lerynnx/Lerynnx/blob/output/github-contribution-grid-snake.svg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lerynnx&theme=onedark&show_icons=true&locale=en" alt="lerynnx" /></p>
