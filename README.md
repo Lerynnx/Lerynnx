@@ -121,6 +121,9 @@
   <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer">
     <img src="https://allvectorlogo.com/img/2017/05/windows-server-logo.png" alt="WinServer" width="120" height="60"/>
   </a>
+  <a href="https://www.microsoft.com/es-es/download/details.aspx?id=34592" target="_blank" rel="noreferrer">
+    <img src="https://dn721906.ca.archive.org/0/items/WinStorageServer2012R2/WSS-0.png" alt="WinStorageServer" width="120" height="60"/>
+  </a>
   <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21~bgwhite.svg" alt="Ubuntu" width="120" height="60"/>
   </a>
