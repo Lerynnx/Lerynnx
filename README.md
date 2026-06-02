@@ -10,10 +10,10 @@
 <br/>
 <h2>What do I do? - I'm...</h2>
 
-- 🌱 Studying **Computer science's degree** following the cybersecurity path.
+- 🌱 Studying for a **Computer Science Degree**, following the cybersecurity path.
 - 💼 Working on my personal projects.
-- 🌐 Studying English.
-- 🔎 Seeking for a job.
+- 🌐 Learning English.
+- 🔎 Looking for a job.
 
 <br/>
 <h2 align="left">What do I know?</h2>
