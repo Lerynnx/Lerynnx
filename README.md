@@ -79,6 +79,9 @@
   <a href="https://www.php.net/manual/es/class.com.php" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/php/php-ar21~bgwhite.svg" alt="PHP" width="120" height="60"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg" alt="Python" width="120" height="60"/>
+  </a>
   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg" alt="SQL" width="120" height="60"/>
   </a>
@@ -126,6 +129,9 @@
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://www.linuxadictos.com/wp-content/uploads/kali-linux-1.jpg" alt="KaliLinux" width="120" height="60"/>
+  </a>
+  <a href="https://rockylinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://tse3.mm.bing.net/th/id/OIP.RnZH0-IpE1qs4aYZJ38G1QHaC0?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3" alt="RockyLinux" width="120" height="60"/>
   </a>
 </p>
 
