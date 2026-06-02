@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hello%20visitor,%20this%20is%20Laura!&reversal=false&textBg=false&animation=fadeIn)
 
-### Junior Software Developer · Computer Science Student focused on Full-Stack and Solution Architecture
+### Software Developer · Computer Science Student focused on Full-Stack and Solution Architecture
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lerynnx&label=Profile%20views&color=0e75b6&style=flat" alt="lerynnx" />
@@ -8,9 +8,12 @@
 <img alt="CodeWars" src="https://www.codewars.com/users/Lerynnx/badges/micro" />
 </p>
 <br/>
-<h2>What do I do?</h2>
+<h2>What do I do? - I'm...</h2>
 
-- 🌱 I’m studing **Computer science's degree** following the cybersecurity path.
+- 🌱 Studying **Computer science's degree** following the cybersecurity path.
+- 💼 Working on my personal projects.
+- 🌐 Studying English.
+- 🔎 Seeking for a job.
 
 <br/>
 <h2 align="left">What do I know?</h2>
